@@ -1,3 +1,5 @@
+Javascript
+
 1. promises
 2. async/await
 3. callbacks
@@ -8,4 +10,12 @@
 8. async programming
 9. setTimeOut(), setInterval(), map(), filter()
 
+
+css
+
+1. Flex box
+2. grid
+3. responsive design
+4. selectors
+5. media queries
 
