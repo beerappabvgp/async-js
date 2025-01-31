@@ -1,0 +1,11 @@
+1. promises
+2. async/await
+3. callbacks
+4. functions
+5. loops
+6. conditionals
+7. arrow functions
+8. async programming
+9. setTimeOut(), setInterval(), map(), filter()
+
+
